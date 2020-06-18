@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lokesh Rathi</title>
+    <link>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/</link>
+    <description>Recent content in Projects on Lokesh Rathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Suicide Analysis</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/project-3/</guid>
+      <description>This Analysis Report provides a graphical representation on the number of suicides from 1987 - 2006 in the world.
+  Exploratory Data Analysis was conducted to find out insights and remove unwanted data to get a better visual on the data..
+  Data Visualisation Technique(seaborn ), to show the number of suicides by males and females.     Conclusions were made based on GDP of a country, year,generation and many other has been updated in the report .</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Investment Analysis</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/project1/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/project1/</guid>
+      <description>This project focuses on gaining insights into Investment business and understanding the driving factors behind loan defaulters and distribution of loan issued. This Analysis report shows Online Loan study, where multiple derivations based on Return of Investment,Loan Defaulted, Number of loans issued based on employment, state, loan_puprose and other metrics have been depicted.    Feature Engineering to extarct variable data columns for analysis on loan defaulters. Univariate, Bivariate Analysis for Business understanding using Visualisation tools such as Seaborn.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Bangalore House Rate Projection</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/project2/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Rathi_Portfolio/post/project2/</guid>
+      <description>Using Pandas library to perform Exploratory Data Analysis, where people can guess an estimate of house prices at various places in Bangalore. Removing Outliers using Mean and Standard Deviation for better understanding of the data. Performed One Hot Encoding to train and test the Linear Regression model to arrive at a r^2 value of 0.86. for the prediction of house price. Deployment using Streamlit on Heroku app    Link to repository</description>
+    </item>
+    
+  </channel>
+</rss>
